@@ -1,0 +1,7 @@
+{
+    "name": "Organization NodeJS CI",
+    "description": "Organization NodeJS Init CI starter workflow",
+    "categories": [
+        "NPM Config"
+    ]
+}
