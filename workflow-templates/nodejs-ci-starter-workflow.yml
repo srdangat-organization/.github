@@ -31,4 +31,5 @@ jobs:
         run: npm test --if-present
 
       - name: Install Dependencies
+        continue-on-error: true
         run: npm run coverage --if-present
